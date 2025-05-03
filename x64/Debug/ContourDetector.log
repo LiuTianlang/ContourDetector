@@ -1,0 +1,14 @@
+﻿  ContourNode.cpp
+D:\Code\C++\CV algorithms\ContourDetector\ContourDetector\ContourNode.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Code\C++\CV algorithms\ContourDetector\ContourDetector\ContourNode.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Code\C++\CV algorithms\ContourDetector\ContourDetector\ContourNode.cpp(103,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\C++\CV algorithms\ContourDetector\ContourDetector\ContourNode.cpp(132,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  MyContourDetector.cpp
+D:\Code\C++\CV algorithms\ContourDetector\ContourDetector\ContourNode.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Code\C++\CV algorithms\ContourDetector\ContourDetector\MyContourDetector.cpp(166,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+D:\Code\C++\CV algorithms\ContourDetector\ContourDetector\ContourNode.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  ContourDetector.vcxproj -> D:\Code\C++\CV algorithms\ContourDetector\x64\Debug\ContourDetector.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
